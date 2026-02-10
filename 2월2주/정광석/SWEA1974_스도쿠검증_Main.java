@@ -19,18 +19,21 @@ public class SWEA1974_스도쿠검증_Main {
 			
 			for(int i=0; i<9; i++) {
 				st = new StringTokenizer(br.readLine());
-				int sum = 0;
 				for(int j=0; j<9; j++) {
-					board[i][j] = Integer.parseInt(st.nextToken());
-					sum |= 1<<board[i][j]-1;
-					
-				}
-				//System.out.println(sum);
-				if(sum!=flag) {
-					answer = 0;
-					break;
+					board[i][j] = Integer.parseInt(st.nextToken());					
 				}
 			}
+			
+			
+			for(int i=0; i<9; i++) {
+			    int check = 0;
+			    for(int j=0; j<9; j++) {
+			        check |= 1 << (board[i][j] - 1);
+			    }
+			    if(check != flag) { answer = 0; break; }
+			}
+			
+			
 			//System.out.println(answer);
 			for(int i=0; i<9; i++) {
 				int sum =0;
