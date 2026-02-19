@@ -12,6 +12,39 @@
 | 2005 | SWEA 2005번 문제 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq" rel="noreferrer" target="_blank">문제 풀러 가기 🚀</a> |
 | 2001 | SWEA 2001번 문제 | <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq" rel="noreferrer" target="_blank">문제 풀러 가기 🚀</a> |
 
+
+📚 SWEA 문제 추천 목록
+----------------
+
+1.  [블록 제거 게임](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmCVWq3uLHBIT3&categoryId=AZwmCVWq3uLHBIT3&categoryType=CODE)
+2.  [보석 수집 로봇](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmBfua3q3HBIT3&categoryId=AZwmBfua3q3HBIT3&categoryType=CODE)
+3.  [보물 상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+4.  [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJfikDKDXkDFAXc)
+5.  [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJRxtsKDKIDFAXc)
+6.  [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH)
+7.  [수영장 (DP)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)
+8.  [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
+9.  [디저트카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
+10.  [요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJR5apqD0EDFAXc)
+11.  [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
+12.  [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+
+✏️ 완전 탐색 → DFS / BFS
+--------------------
+
+**Ryute BOJ 길라잡이 - A 카테고리, B 카테고리 정답 공부하기**
+
+* A 카테고리
+    
+    * [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
+    * [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+    * [트리의 지름](https://www.acmicpc.net/problem/1967)
+* B 카테고리
+    
+    * [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+    * [14867 물통](https://www.acmicpc.net/problem/14867)
+    * [7576 토마토](https://www.acmicpc.net/problem/7576)
+    * [7569 토마토](https://www.acmicpc.net/problem/7569)
 ---
 
 ## 📚 지난 기록
