@@ -3,7 +3,7 @@
 매주 정해진 문제를 풀고 Commit 올려주세요!
 
 ## 📅 주차별 스터디 일정
-### 3월 3주차 ⭐ (이번 주)
+### 3월 3주차
 | 문제 번호 | 문제 이름 | 링크 |
 | :---: | :--- | :---: |
 | 11403 | 경로찾기 | [바로가기](https://www.acmicpc.net/problem/11403) |
@@ -11,6 +11,15 @@
 | 2589 | 보물섬 | [바로가기](https://www.acmicpc.net/problem/2589) |
 | 18352 | 특정 거리의 도시 찾기 | [바로가기](https://www.acmicpc.net/problem/18352) |
 | 20546 | 기적의 매매법 | [바로가기](https://www.acmicpc.net/problem/20546) |
+
+### 3월 4주차 ⭐ (이번 주)
+| 문제 번호 | 문제 이름 | 링크 |
+| :---: | :--- | :---: |
+| 14426 | 접두사 찾기 | [바로가기](https://www.acmicpc.net/problem/14426) |
+| 17073 | 나무 위의 빗물 | [바로가기](https://www.acmicpc.net/problem/17073) |
+| 25516 | 거리가 k이하인 트리 노드에서 사과 수확하기 | [바로가기](https://www.acmicpc.net/problem/25516) |
+| 11725 | 트리의 부모 찾기 | [바로가기](https://www.acmicpc.net/problem/11725) |
+| 13335 | 트럭 | [바로가기](https://www.acmicpc.net/problem/13335) |
 
 ---
 
@@ -42,36 +51,3 @@
 
 </details>
 
-📚 SWEA 문제 추천 목록
-----------------
-
-1.  [블록 제거 게임](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmCVWq3uLHBIT3&categoryId=AZwmCVWq3uLHBIT3&categoryType=CODE)
-2.  [보석 수집 로봇](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmBfua3q3HBIT3&categoryId=AZwmBfua3q3HBIT3&categoryType=CODE)
-3.  [보물 상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
-4.  [활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJfikDKDXkDFAXc)
-5.  [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJRxtsKDKIDFAXc)
-6.  [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH)
-7.  [수영장 (DP)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)
-8.  [등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
-9.  [디저트카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
-10.  [요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWJR5apqD0EDFAXc)
-11.  [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)
-12.  [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
-
-✏️ 완전 탐색 → DFS / BFS
---------------------
-
-**Ryute BOJ 길라잡이 - A 카테고리, B 카테고리 정답 공부하기**
-
-* A 카테고리
-    
-    * [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)
-    * [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-    * [트리의 지름](https://www.acmicpc.net/problem/1967)
-* B 카테고리
-    
-    * [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)
-    * [14867 물통](https://www.acmicpc.net/problem/14867)
-    * [7576 토마토](https://www.acmicpc.net/problem/7576)
-    * [7569 토마토](https://www.acmicpc.net/problem/7569)
----
