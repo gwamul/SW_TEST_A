@@ -23,6 +23,14 @@
 
 ---
 
+| 248 | \[S/W 문제해결 응용\] 공통조상 | 트리, DFS | 트리의 구조 이해와 두 노드의 계보를 거슬러 올라가는 기본기 강화 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14zS_qAZ4CFAYD) |
+| :-: | :-- | :-- | :-- | :-: |
+| 1226 | \[S/W 문제해결 기본\] 미로1 | BFS / DFS | 격자판 탐색의 기본. BFS와 DFS 두 방식으로 모두 풀어보길 권장 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD) |
+| 2806 | N-Queen | 백트래킹 | 백트래킹의 교과서. 유망성(Pruning) 판단의 핵심을 배울 수 있음 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB) |
+| 1949 | \[모의 SW 역량테스트\] 등산로 조성 | DFS + 시뮬레이션 | 제약 조건 내에서 경로를 탐색하는 실전형 DFS 응용 문제 | [바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) |
+| 5656 | \[모의 SW 역량테스트\] 벽돌 깨기 | BFS + 백트래킹 + 구현 | 여러 알고리즘이 복합된 중급 난이도. 대기업 코테의 정석 스타일 |
+
+
 ## 📚 별도 문제
 <details>
 <summary><b>🔥 B형 대비 필수 DP 문제집 (펼치기)</b></summary>
